@@ -8,6 +8,13 @@
   url: "https://github.com/probot/probot"
   description: A framework for building GitHub Apps to automate and improve your workflow
 
+# mybot
+- project: myprobot
+  role: Contributor
+  duration: 2021 &mdash; Present
+  url: "https://github.com/probot/probot"
+  description: A framework for building GitHub Apps to automate and improve your workflow
+
 # GitHub Classroom
 - project: GitHub Classroom
   role: Contributor
